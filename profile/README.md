@@ -1,12 +1,25 @@
-## Wacosoft GitHub Account
+# 👋 Welcome
 
-<!--
+**Wacosoft GmbH** is a Swiss engineering company founded in **1994**, specializing in high-end software, IT, and engineering solutions for **mission-critical and highly regulated environments**. :contentReference[oaicite:1]{index=1}
 
-**Here are some ideas to get you started:**
+We deliver robust and scalable systems backed by senior engineering expertise across complex operational landscapes — from software and cloud systems to consulting and commissioning services. :contentReference[oaicite:2]{index=2}
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 💼 What We Do
+
+- **Software Engineering** — Building reliable, maintainable software tailored to complex operational need
+- **Consulting** — Independent engineering consulting to support technical decisions and system integration.
+- **Engineering & Commissioning** — On-site planning, oversight, and validation for high-availability systems.
+
+---
+
+## 🚀 Work With Us
+
+I’m also available for **freelance and consulting engagements** through **wacosoft**.
+
+🔗 **Learn more or get in touch:** **[wacosoft.com](https://wacosoft.com/)**
+
+---
+
+*Engineering excellence since 1994 — built for reliability and long-term performance.*  
