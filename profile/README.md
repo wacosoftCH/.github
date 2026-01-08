@@ -1,8 +1,8 @@
 # 👋 Welcome
 
-**Wacosoft GmbH** is a Swiss engineering company founded in **1994**, specializing in high-end software, IT, and engineering solutions for **mission-critical and highly regulated environments**. :contentReference[oaicite:1]{index=1}
+**Wacosoft GmbH** is a Swiss engineering company founded in **1994**, specializing in high-end software, IT, and engineering solutions for **mission-critical and highly regulated environments**.
 
-We deliver robust and scalable systems backed by senior engineering expertise across complex operational landscapes — from software and cloud systems to consulting and commissioning services. :contentReference[oaicite:2]{index=2}
+We deliver robust and scalable systems backed by senior engineering expertise across complex operational landscapes — from software and cloud systems to consulting and commissioning services.
 
 ---
 
